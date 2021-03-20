@@ -20,5 +20,6 @@ jobs:
           password: ${{ secrets.password }}
           reason: ${{ secrets.reason }}
           wechat: "False"
+          out_track: ${{ secrets.track }}
 
 
