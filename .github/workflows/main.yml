@@ -19,5 +19,4 @@ jobs:
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
           reason: ${{ secrets.reason }}
-          wechat: "True"
-          sckey: ${{ secrets.sckey }}
+          wechat: "False"
